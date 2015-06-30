@@ -211,7 +211,7 @@ pre, code, kbd, samp, tt {
 }
 
 /* EDITOR PROPERTIES - PLEASE DON'T DELETE THIS LINE TO AVOID DUPLICATE PROPERTIES */
-/* ***************************
+/* *************************** 
   Site - Project Name
   ---------------------------
   StyleSheet Index
@@ -221,10 +221,10 @@ pre, code, kbd, samp, tt {
   $5 - Sidebar Styles
   $6 - Footer Styles
    ***************************/
-/* ***************************
+/* *************************** 
    $1 Website Structure Styles
    ***************************/
-                             /* ***************************
+                             /* *************************** 
 Site - Project Name
 ---------------------------
 StyleSheet Index
@@ -234,7 +234,7 @@ $4 - Content Styles
 $5 - Sidebar Styles
 $6 - Footer Styles
  ***************************/
-/* ***************************
+/* *************************** 
    $1 Website Structure Styles
    ***************************/
 /* line 109, ../../app/assets/stylesheets/home.css.scss */
@@ -282,7 +282,7 @@ td {
   margin: 0 auto;
 }
 
-/* ***************************
+/* *************************** 
    $2 Header Styles
    ***************************/
 /* line 123, ../../app/assets/stylesheets/home.css.scss */
@@ -413,7 +413,7 @@ td {
   color: #434343;
 }
 
-/* ***************************
+/* *************************** 
    $3 Content Styles
    ***************************/
 /* line 142, ../../app/assets/stylesheets/home.css.scss */
@@ -2055,7 +2055,7 @@ td {
   font-style: italic;
 }
 
-/* ***************************
+/* *************************** 
    $4 Sidebar Styles
    ***************************/
 /* line 407, ../../app/assets/stylesheets/home.css.scss */
@@ -2283,7 +2283,7 @@ td {
   text-decoration: underline;
 }
 
-/* ***************************
+/* *************************** 
    $5 Footer Styles
    ***************************/
 /* line 447, ../../app/assets/stylesheets/home.css.scss */
@@ -2460,7 +2460,7 @@ The following CSS is consistent between example themes and should not be altered
   border: 0;
 }
 
-/*
+/* 
 
 User Style:
 
